@@ -29,6 +29,8 @@
   - StationAiIconRedDot # DEN
   - StationAiIconTriumvirate # DEN
   - StationAiIconVox # DEN
+  - StationAiIconJohnnyChaos #imp
+  - StationAiIconBee #imp
 
 - type: stationAiCustomizationGroup
   id: StationAiHolograms
@@ -40,6 +42,7 @@
   - StationAiHologramFace
   - StationAiHologramCat
   - StationAiHologramDog
+  - StationAiHologramBee #imp
   - StationAiHologramKobold
   - StationAiHologramMonkey
   - StationAiHologramAngel # DEN
